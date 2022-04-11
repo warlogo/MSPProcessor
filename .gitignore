@@ -1,3 +1,5 @@
 output/*
 processed/*
 rawData/*
+classes/__*
+*.ini
